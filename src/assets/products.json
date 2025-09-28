@@ -1,0 +1,202 @@
+[
+  {
+    "id": "iphone-14-pro",
+    "name": "Apple iPhone 14 Pro Max",
+    "category": "Phone",
+    "price": 1399,
+    "oldPrice": 1499,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/b/_/b_c_1_9.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/_/x_m_24.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/_/v_ng_18.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-14-pro_2__5.png"
+    ],
+    "colors": ["#3c3c3c", "#f6f2ef", "#f0e2d5", "#5e5970", "#b7b7b7"],
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "specs": {
+      "Screen size": "6.7\"",
+      "CPU": "Apple A16 Bionic",
+      "Main camera": "48+12+12 MP"
+    },
+    "description": "Enhanced capabilities thanks to an enlarged display of 6.7 inches and work without recharging throughout the day."
+  },
+  {
+    "id": "ps5",
+    "name": "Playstation 5",
+    "category": "Gaming",
+    "price": 499,
+    "oldPrice": 599,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_8_2__1.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/p/s/ps5_01_withnotice-res-1592018255-513-width660height540_1.jpeg",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/m/image_2_2__2.png"
+    ],
+    "colors": ["#FFFFFF", "#000000"],
+    "storage": ["825GB SSD"],
+    "specs": {
+      "CPU": "AMD Ryzen Zen 2",
+      "GPU": "AMD Radeon RDNA 2",
+      "RAM": "16GB GDDR6"
+    },
+    "description": "Incredibly powerful CPUs, GPUs, and an SSD with ultra-high speed and deeper immersion."
+  },
+  {
+    "id": "macbook-air-m2",
+    "name": "Apple MacBook Air M2",
+    "category": "Laptop",
+    "price": 1099,
+    "oldPrice": 1199,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/n/vn0d33_1_1.jpg",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/n/vn_mac_1_3.jpg",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/n/vn380f_1_1.jpg"
+    ],
+    "colors": ["#2E3642", "#F0E4D3", "#C0C0C0", "#E3E4E6"],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "specs": {
+      "Chip": "Apple M2",
+      "Screen size": "13.6\"",
+      "RAM": "8GB Unified Memory"
+    },
+    "description": "Redesigned around the next-generation M2 chip, MacBook Air is strikingly thin and brings exceptional speed and power efficiency."
+  },
+  {
+    "id": "samsung-galaxy-s23-ultra",
+    "name": "Samsung Galaxy S23 Ultra",
+    "category": "Phone",
+    "price": 1199,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/2/s23-ultra-tim.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/2/s23-ultra-tim-1.png"
+    ],
+    "colors": ["#4A4945", "#F0EDE5", "#697163", "#E1DAEB"],
+    "storage": ["256GB", "512GB", "1TB"],
+    "specs": {
+      "Screen size": "6.8\"",
+      "CPU": "Snapdragon 8 Gen 2",
+      "Main camera": "200MP"
+    },
+    "description": "More innovation, less footprint. The striking symmetrical design of Galaxy S23 Ultra returns with one major difference: recycled materials."
+  },
+  {
+    "id": "sony-wh-1000xm5",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Audio",
+    "price": 399,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-3.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-2.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-2-removebg-preview.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-4.png"
+    ],
+    "colors": ["#000000", "#d1d5db", "#002855"],
+    "storage": [],
+    "specs": {
+      "Noise Cancelling": "Industry Leading",
+      "Battery Life": "Up to 30 hours",
+      "Driver Unit": "30mm"
+    },
+    "description": "Our best ever noise cancelling just got better. See how these Sony noise cancelling headphones personalize your listening experience."
+  },
+  {
+    "id": "nintendo-switch-oled",
+    "name": "Nintendo Switch - OLED Model",
+    "category": "Gaming",
+    "price": 349,
+    "oldPrice": 379,
+    "image": "https://haloshop.vn/wp-content/uploads/2025/02/nintendo-switch-oled-white-joy-con-00-700x700-1.jpg",
+    "thumbnail": [
+      "https://haloshop.vn/wp-content/uploads/2025/02/nintendo-switch-oled-white-joy-con-45-700x700-1.jpg",
+      "https://haloshop.vn/wp-content/uploads/2025/02/nintendo-switch-oled-white-joy-con-44-700x700-1.jpg"
+    ],
+    "colors": ["#FFFFFF", "#FF0000"],
+    "storage": ["64GB"],
+    "specs": {
+      "Screen": "7-inch OLED",
+      "Storage": "64GB internal",
+      "TV Dock": "With LAN port"
+    },
+    "description": "Meet the newest member of the Nintendo Switch family! The new system features a vibrant 7-inch OLED screen and a wide adjustable stand."
+  },
+  {
+    "id": "ipad-pro-m2",
+    "name": "Apple iPad Pro M2",
+    "category": "Tablet",
+    "price": 799,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/f/r/frame_100_1_2__2_2.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-pro-m4-11-inch_6_.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-pro-m4-11-inch_7_.png"
+    ],
+    "colors": ["#4B4E53", "#E3E4E6"],
+    "storage": ["128GB", "256GB", "512GB", "1TB", "2TB"],
+    "specs": {
+      "Chip": "Apple M2",
+      "Display": "11-inch Liquid Retina",
+      "Camera": "12MP Ultra Wide"
+    },
+    "description": "The ultimate iPad experience. Now with breakthrough M2 performance, a next-level Apple Pencil experience, and powerful new features."
+  },
+  {
+    "id": "dell-xps-13",
+    "name": "Dell XPS 13 Laptop",
+    "category": "Laptop",
+    "price": 999,
+    "oldPrice": 1099,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_6__4_23.png",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_5__9_25.png",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_7__4_20.png"
+    ],
+    "colors": ["#B0B6BF", "#595959"],
+    "storage": ["512GB SSD", "1TB SSD"],
+    "specs": {
+      "CPU": "12th Gen Intel Core i7",
+      "RAM": "16GB LPDDR5",
+      "Display": "13.4-inch FHD+"
+    },
+    "description": "Our most powerful 13-inch XPS laptop is now even more powerful. Featuring 12th Gen Intel® Core™ processors and a stunning InfinityEdge display."
+  },
+  {
+    "id": "google-pixel-7-pro",
+    "name": "Google Pixel 7 Pro",
+    "category": "Phone",
+    "price": 899,
+    "oldPrice": 999,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/_/v_by6_1.jpg",
+    "thumbnail": [
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/r/hrgjrrh_1.jpg",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/v/_vc_1.jpg",
+      "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/d/vddgg_1.jpg"
+    ],
+    "colors": ["#3C4043", "#F2F2F2", "#A5A5A5"],
+    "storage": ["128GB", "256GB", "512GB"],
+    "specs": {
+      "Chip": "Google Tensor G2",
+      "Screen size": "6.7\"",
+      "Main camera": "50MP Wide"
+    },
+    "description": "The most powerful Google phone yet, with the advanced Tensor G2 chip and a pro-level camera system."
+  },
+  {
+    "id": "sony-alpha-7-iv",
+    "name": "Sony Alpha 7 IV Camera",
+    "category": "Camera",
+    "price": 2499,
+    "oldPrice": 2699,
+    "image": "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7-mark-iv/sony-alpha-a7m4-500x500.jpg",
+    "thumbnail": [
+      "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7-mark-iv/sony-alpha-a7m4-09-500x500.jpg",
+      "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7-mark-iv/sony-alpha-a7m4-02-500x500.jpg",
+      "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7-mark-iv/sony-alpha-a7m4-10-500x500.jpg"
+    ],
+    "colors": ["#000000"],
+    "storage": ["Body Only", "With 28-70mm Lens"],
+    "specs": {
+      "Sensor": "33MP Full-Frame",
+      "Video": "4K 60p",
+      "Autofocus": "Real-time Eye AF"
+    },
+    "description": "The hybrid reimagined. With breathtaking image quality and 4K video, the α7 IV is the ideal hybrid, providing breathtaking imagery for both stills and movies."
+  }
+]
