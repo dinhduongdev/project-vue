@@ -87,7 +87,7 @@
 <script setup lang="ts">
 import AppFooter from '@/components/AppFooter.vue'
 import AppNavbar from '../components/AppNavbar.vue'
-import { ref, onMounted, watch } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useCartStore } from '../stores/cart'
 
